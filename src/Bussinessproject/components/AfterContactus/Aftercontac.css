@@ -1,0 +1,32 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+/*width setting this page*/
+.aftercontactstyle
+{
+    width:100%;
+
+}
+/* give border*/
+.headingcontaus
+{
+    margin-top:50px;
+    margin-left:100px;
+    margin-right:100px;
+  
+    width:500px;
+    min-height:200px;
+    border:1px solid red;
+    background-color: rgba(0, 0, 255, 0.482);;
+    border-radius: 10px;
+    font-style: italic;
+    font-size:10px;
+  
+}
+.headingcontaus h4{
+    padding:10px;
+
+}

@@ -1,0 +1,11 @@
+This project is based on software and web development training institute business project.
+This website contains home page,about page ,program page ,contact us page.
+Home page:Link of other pages .
+About page:About this institute.Strength of this institute.
+Programs:related to training subjects.
+Contactus page: contains a form to contactus.
+
+For making responsive design, I used Bootstrap.
+ 
+
+ Languages:HTML, CSS, JAVASCRIPT,Frontend:React;

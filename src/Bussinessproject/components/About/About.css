@@ -1,0 +1,60 @@
+/*heading part*/
+.headingaboutme
+{
+    width:100%;
+}
+
+
+.headingaboutme h1
+{
+    margin-top:30px;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom:50px;
+    margin-left:40px;
+
+}
+/*about part*/
+.aboutas{
+    width:100%;
+    display:flex;
+    justify-content:space-around
+}
+
+.aboutas p
+{
+   
+    margin-left:50px;
+  text-align: justify;
+    
+
+}
+/* strength of this about page part*/
+
+.quality
+{
+
+    padding:20px;
+    margin:20px;
+    display:flex;
+    justify-content:space-around;
+
+}
+
+.borderpositives
+{
+    margin:20px;
+    width:200px;
+    background-color:lightblue;
+    height:150px;
+    border-radius: 10px;;
+    border:none;
+    color:white;
+    margin-bottom:20px;
+    color:white;
+}
+/*hihlightthis div*/
+.borderpositives:hover{
+    transform:scale(1.2);
+
+}
